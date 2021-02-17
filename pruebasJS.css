@@ -1,0 +1,13 @@
+.datos {
+    text-align: left;
+    background-color: grey;
+    width: 40%;
+    text-align: center;
+    color: white;
+}
+.funciones {
+    text-align: left;
+    background-color: tomato;
+    width: 40%;
+    color: white;
+} 
